@@ -1,6 +1,6 @@
 # Welcome to Oi 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/oi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/oi-overide/oi?style=social)
 ![License](https://img.shields.io/github/license/oi-overide/oi)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
@@ -9,11 +9,10 @@ Oi is an open-source CLI tool designed to streamline your coding process with au
 ## Table of Contents 📖
 
 1. [Ideas Behind Oi](#ideas-behind-oi)
-2. [Key Features](#key-features)
+2. [Oi In Action](#oi-in-action)
 3. [Join the Community](#join-the-community)
-4. [Community Guidelines](#community-guidelines)
-5. [Roadmap](#roadmap)
-6. [Contributors](#contributors)
+4. [Roadmap](#roadmap)
+5. [Contributors](#contributors)
 
 
 ![Oi Banner](https://github.com/oi-overide/oi-overide/blob/main/assets/banner.png)
@@ -36,26 +35,24 @@ Here's a quick demo of Oi's features:
 
 Get involved in the Oi community! Here are a few ways to connect and contribute:
 
-- **[Join our Discord server](#)** for real-time discussions, support, and feature requests.
-- **[Follow us on Reddit](#)** for in-depth conversations, community contributions, and feedback.
+- **[Join our Discord server](https://discord.gg/e8kvDsY3QA)** for real-time discussions, support, and feature requests.
+- **[Follow us on Reddit](https://www.reddit.com/r/overide/)** for in-depth conversations, community contributions, and feedback.
 - **[Read our Community Guidelines](#)** to learn how you can contribute effectively.
 
 ## Roadmap 🛤️
 
-- [ ] Expand support for more languages.
-- [ ] Integrate Oi with additional version control systems.
-- [ ] Add new commands for automated project analysis.
+- [ ] Add code generation capability using local LLM.
+- [ ] Allow advance context based on Annotation comments. 
+- [ ] Allow comment generation based on file structure.
+- [ ] Allow documentation generation based on project structure.
+- [ ] Improve existing functionality.
 
 ## Contributors ✨
 
-Thanks to everyone who has contributed to Oi! 🙌
-
-<a href="https://github.com/your-repo/contributors">
-  <img src="https://contrib.rocks/image?repo=your-repo" />
-</a>
+Thanks to everyone who wants to contributed to Oi! 🙌
 
 ## Ready to Get Started? 🚀
 
-Download Oi and start boosting your productivity today. Check out our [project README](https://github.com/your-repo-link) for installation instructions and documentation.
+Download Oi and start boosting your productivity today. Check out our [project README](https://github.com/oi-overide/oi) for installation instructions and documentation.
 
-Don’t forget to [Join our Discord](#) and share your feedback!
+Don’t forget to [Join our Discord](https://discord.gg/e8kvDsY3QA) and share your feedback!
