@@ -29,7 +29,7 @@ Oi was created with a vision to make code generation more accessible, flexible, 
 
 Here's a quick demo of Oi's features:
 
-![Oi Demo](https://link-to-your-gif-or-screenshot)
+![Oi Demo](https://github.com/oi-overide/oi-overide/blob/main/assets/oi-demo.gif)
 
 ## Join the Community 🌐
 
