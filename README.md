@@ -1,7 +1,7 @@
 # Welcome to Oi 🚀
 
 ![GitHub stars](https://img.shields.io/github/stars/oi?style=social)
-![License](https://img.shields.io/github/license/oi)
+![License](https://img.shields.io/github/license/oi-overide/oi)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 Oi is an open-source CLI tool designed to streamline your coding process with automated code generation and project context management. Whether you're working solo or collaborating with teams, Oi makes it easy to enhance your productivity.
