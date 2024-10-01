@@ -16,7 +16,7 @@ Oi is an open-source CLI tool designed to streamline your coding process with au
 6. [Contributors](#contributors)
 
 
-![Oi Banner](https://link-to-your-image)
+![Oi Banner](https://github.com/oi-overide/oi-overide/blob/main/assets/banner.png)
 
 ## Ideas Behind Oi 💡
 
