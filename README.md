@@ -35,7 +35,7 @@ Here's a quick demo of Oi's features:
 
 Get involved in the Oi community! Here are a few ways to connect and contribute:
 
-- **[Join our Discord server](https://discord.gg/e8kvDsY3QA)** for real-time discussions, support, and feature requests.
+- **[Join our Discord server](https://discord.gg/Z7F4vRq3n8)** for real-time discussions, support, and feature requests.
 - **[Follow us on Reddit](https://www.reddit.com/r/overide/)** for in-depth conversations, community contributions, and feedback.
 - **[Read our Community Guidelines](#)** to learn how you can contribute effectively.
 
@@ -55,4 +55,4 @@ Thanks to everyone who wants to contributed to Oi! 🙌
 
 Download Oi and start boosting your productivity today. Check out our [project README](https://github.com/oi-overide/oi) for installation instructions and documentation.
 
-Don’t forget to [Join our Discord](https://discord.gg/e8kvDsY3QA) and share your feedback!
+Don’t forget to [Join our Discord](https://discord.gg/Z7F4vRq3n8) and share your feedback!
