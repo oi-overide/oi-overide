@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "f042bffdc2f5bcd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "95ad4bf5bd6b50d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046b00083ff78ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installation/Prerequisites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8121e3903e3a42c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installation/Installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "892cde40b02d2f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "a51cbe676d2d5647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3691441392b24100",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fd8b5ba5ebf430b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38a912f77a82e7ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bac3146ca5165317",
+    "type": "split",
+    "children": [
+      {
+        "id": "5359e799da61e794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29ea67547e8a9d5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Installation/Installation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96b5a73deb66e94a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Installation/Installation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "704bb48c29c08655",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b087e656ae214b79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Installation/Installation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3691441392b24100",
+  "lastOpenFiles": [
+    "Installation/Prerequisites.md",
+    "Installation/Installation.md",
+    "README.md",
+    "Installation"
+  ]
+}

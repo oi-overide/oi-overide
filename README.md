@@ -6,16 +6,7 @@
 
 Oi is an open-source CLI tool designed to streamline your coding process with automated code generation and project context management. Whether you're working solo or collaborating with teams, Oi makes it easy to enhance your productivity.
 
-## Table of Contents 📖
-
-1. [Ideas Behind Oi](#ideas-behind-oi)
-2. [Oi In Action](#oi-in-action)
-3. [Join the Community](#join-the-community)
-4. [Roadmap](#roadmap)
-5. [Contributors](#contributors)
-
-
-![Oi Banner](https://github.com/oi-overide/oi-overide/blob/main/assets/banner.png)
+![Oi Banner](https://github.com/oi-overide/oi-overide/blob/main/assets/banner.png) 
 
 ## Ideas Behind Oi 💡
 
@@ -38,14 +29,6 @@ Get involved in the Oi community! Here are a few ways to connect and contribute:
 - **[Join our Discord server](https://discord.gg/Z7F4vRq3n8)** for real-time discussions, support, and feature requests.
 - **[Follow us on Reddit](https://www.reddit.com/r/overide/)** for in-depth conversations, community contributions, and feedback.
 - **[Read our Community Guidelines](#)** to learn how you can contribute effectively.
-
-## Roadmap 🛤️
-
-- [ ] Add code generation capability using local LLM.
-- [ ] Allow advance context based on Annotation comments. 
-- [ ] Allow comment generation based on file structure.
-- [ ] Allow documentation generation based on project structure.
-- [ ] Improve existing functionality.
 
 ## Contributors ✨
 
