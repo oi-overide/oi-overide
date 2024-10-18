@@ -15,6 +15,8 @@ To install using npm, run :
 npm install -g oi
 ```
 
+**** NOTE : brew install support will be added in version 1.0.0
+
 To install using brew you need to tap the cask first. 
 
 ```

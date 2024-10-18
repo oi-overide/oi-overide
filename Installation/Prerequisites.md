@@ -1,14 +1,14 @@
 Before we begin to install Oi please make sure that you have one of the following package managers installed. 
+#### NPM 
+
+You can follow this document to install NodeJS and NPM if you don't have it already.
+https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+
 #### HomeBrew 
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-
-#### NPM 
-
-You can follow this document to install NodeJS and NPM if you don't have it already.
-https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 ### Build Yourself
 

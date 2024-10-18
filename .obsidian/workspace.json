@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95ad4bf5bd6b50d0",
+        "id": "df51899e5f7d428c",
         "type": "tabs",
         "children": [
           {
-            "id": "046b00083ff78ca2",
+            "id": "f2d17c4be35b6257",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,19 +16,23 @@
                 "file": "Installation/Prerequisites.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Prerequisites"
             }
           },
           {
-            "id": "8121e3903e3a42c8",
+            "id": "c5379ea03681a7c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installation/Installation.md",
+                "file": "Usage/Commands.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Commands"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installation/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -115,10 +126,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installation/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -129,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,9 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Installation/Installation.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -159,9 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3691441392b24100",
+  "active": "c5379ea03681a7c5",
   "lastOpenFiles": [
+    "().md",
+    "Usage/Commands.md",
     "Installation/Prerequisites.md",
+    "Usage",
     "Installation/Installation.md",
     "README.md",
     "Installation"
